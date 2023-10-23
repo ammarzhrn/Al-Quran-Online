@@ -188,5 +188,13 @@ h1 {
         background: none;
     }
 
+    .item-1 {
+        width: 73.5%;
+    }
 
+    .item-2 {
+        width: 20%;
+        padding-right: 0;
+    }
+    
 }
